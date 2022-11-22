@@ -1,0 +1,70 @@
+ body{
+   background-color: #EAEAEA;
+ }
+ 
+ .card{
+    width: 30%;
+    background-color:#D6E4E5;
+    height: 400px;
+    position: relative;
+    left: 35%;
+    margin-top: 100px;
+    border-radius: 10px;
+    text-align: left;
+    padding-left: 30px;
+    
+ }
+ .card1{
+  position: relative;
+  top: 40px;
+}
+ .card2{
+  width: 60vh;
+  background-color:#D6E4E5;
+  height: 400px;
+  position: relative;
+  right: 6%;
+  margin-top: 100px;
+  border-radius: 10px;
+  text-align: center;
+  padding-left: 30px;
+  line-height: 2rem;
+}
+  .img1{
+    width: 80%;
+    position: relative;
+    right: 4%;
+  }
+  
+ .input{
+   padding: 5px;
+   width: 90%;
+   margin: 2% 0%;
+   border-color:#EDEDED;
+   padding-top: 2%;
+ }
+
+ .button{
+   width: 95%;
+   padding: 12px;
+   margin-top: 4%;
+   background-color: black;
+   color: beige;
+ }
+
+ .para{
+   text-align: center;
+   position: relative;
+   right: 7%;
+   color: red;
+ }
+ .p1{
+  text-align: left;
+  color: darkred;
+ }
+ .card4{
+  width: 20vh;
+  position: relative;
+  top: 5vh;
+  left: 20vh;
+}
